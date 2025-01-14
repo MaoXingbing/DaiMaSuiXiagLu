@@ -17,7 +17,6 @@ public class lc209 {
                 sum=sum-nums[i];
                 i++;
             }
-sout
         }
         return res;
     }
