@@ -17,5 +17,6 @@ public class lc19 {
         }
         cur.next = cur.next.next;
         return dum.next;
+
     }
 }
